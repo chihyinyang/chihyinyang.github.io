@@ -1,11 +1,11 @@
-
-"applinks":
+{
+"applinks": {
     "apps": [],
     "details": [
         {
-            "appID": "3Y7MDGUP9G.com.nectar.testapp",
+            "appID": "FG4G5R2GKT.com.nectar.testapp",
             "paths": ["/account", "/ba", "/brands/*", "/c/british-airways", "/c/nectar-app", "/c/spend", "/card", "/confirm-email-address", "/confirm-identity-email", "/confirm-reset-password", "/confirm-sign-up", "/confirm-update-email", "/email-offers", "/event", "/homepage", "/how-to-get-nectar-prices", "/id/start/enter-card-number", "/id/start/nectar-card-check", "/marketing-event/overview/*", "/marketing-event/summary/*", "/marketing-event/opt-in/*", "/marketing-event/redemptions/*", "/nectar-app", "/nectar-connect-login", "/offers", "/offers/brand", "/offers/food", "/offers/your-nectar-prices", "/offer-details/food/*", "/offer-details/brand/*", "/offer-event/*", "/offers-list", "/sainsburys-offers", "/open-app", "/register", "/surprise-rewards", "/spend"]
         }
     ]
   }
-}}
+}
